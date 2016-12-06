@@ -1,5 +1,5 @@
 dj-database-url
 Django==1.10.4
 gunicorn
-psycopg
+psycopg2
 whitenoise
