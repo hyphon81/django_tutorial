@@ -3,3 +3,4 @@ Django==1.10.4
 gunicorn
 psycopg2
 whitenoise
+PyMySQL
